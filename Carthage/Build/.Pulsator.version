@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.5.2",
+  "iOS" : [
+    {
+      "name" : "Pulsator",
+      "hash" : "73d55116177cacdffdf88c1b10a2ce75577460c73c85b1c6263bf3bcab7de074"
+    }
+  ]
+}

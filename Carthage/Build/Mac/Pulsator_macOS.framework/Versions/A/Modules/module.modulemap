@@ -1,0 +1,6 @@
+framework module Pulsator_macOS {
+  umbrella header "Pulsator_macOS.h"
+
+  export *
+  module * { export * }
+}

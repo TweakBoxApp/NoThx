@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.11.0",
+  "iOS" : [
+    {
+      "name" : "StatusAlert",
+      "hash" : "bfe96e5aac20e5117b10ff3a2aadf4bc17d11fbb46ae2b2b53539a90ddd987ff"
+    }
+  ]
+}

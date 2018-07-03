@@ -1,0 +1,11 @@
+framework module Pulsator {
+  umbrella header "Pulsator.h"
+
+  export *
+  module * { export * }
+}
+
+module Pulsator.Swift {
+    header "Pulsator-Swift.h"
+    requires objc
+}

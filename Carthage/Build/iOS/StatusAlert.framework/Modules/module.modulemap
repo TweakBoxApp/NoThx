@@ -1,0 +1,4 @@
+framework module StatusAlert {
+    header "StatusAlert-Swift.h"
+    requires objc
+}

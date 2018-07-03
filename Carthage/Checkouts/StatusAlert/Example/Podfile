@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'StatusAlertSwiftDemo' do
+  pod 'StatusAlert', :path => '../'
+end
+
+target 'StatusAlertObjCDemo' do
+    pod 'StatusAlert', :path => '../'
+end

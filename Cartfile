@@ -1,0 +1,4 @@
+github "zhuhaow/NEKit"
+github "shu223/Pulsator"
+github "LowKostKustomz/StatusAlert" ~> 0.11.0
+github "OneSignal/OneSignal-iOS-SDK"
